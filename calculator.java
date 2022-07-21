@@ -90,6 +90,7 @@ Scanner sc = new Scanner(System.in);
 		default:System.out.println("Wrong input");
 		}
 	}
+
 	
 }
 }
